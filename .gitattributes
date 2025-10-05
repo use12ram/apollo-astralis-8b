@@ -1,0 +1,7 @@
+# Text files
+*.md text
+*.json text
+*.txt text
+*.py text
+*.yaml text
+*.yml text
