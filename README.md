@@ -201,44 +201,6 @@ prompt = """I have a 3-liter jug and a 5-liter jug. How can I measure exactly 4 
 # - Enthusiastic encouragement
 ```
 
-## Training Details
-
-### Training Data
-
-- **Dataset Size**: 292 carefully curated examples
-- **Starting Point**: V3 adapters (proven reasoning baseline)
-- **Training Focus**: Personality enhancement while preserving reasoning
-- **Data Composition**:
-  - Mathematical reasoning (30%)
-  - Logical reasoning (25%)
-  - Conversational warmth (25%)
-  - Collaborative problem-solving (20%)
-
-### Training Configuration
-
-- **Epochs**: 3 with early stopping
-- **Batch Size**: 4 (gradient accumulation)
-- **Learning Rate**: 2e-4 (cosine schedule)
-- **Optimizer**: AdamW with weight decay
-- **Hardware**: NVIDIA RTX 3060 (12GB)
-- **Training Duration**: ~2 hours
-- **Final Loss**: 0.39 (from 0.91)
-
-### Conservative Training Approach
-
-The "V5 Conservative" approach addresses catastrophic forgetting by:
-
-1. **Baseline Preservation**: Start from V3 adapters with proven reasoning capabilities
-2. **Limited Examples**: 292 examples (vs 1000+ in failed attempts) to avoid overfitting
-3. **Balanced Training**: Equal focus on reasoning and personality
-4. **Early Stopping**: Stop at first sign of convergence to prevent degradation
-
-## Model Variants
-
-- **Conservative (256 tokens)**: Balanced responses, suitable for most tasks
-- **Unlimited (-1 tokens)**: For complex multi-step reasoning requiring extended chain-of-thought
-
-Both variants use the same base model; only `num_predict` parameter differs.
 
 ## Limitations
 
