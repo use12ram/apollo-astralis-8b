@@ -307,7 +307,7 @@ This model is released under the Apache 2.0 License. See [LICENSE](./LICENSE) fo
 ## Contact
 
 - **GitHub**: [vanta-research/apollo-astralis-8b](https://github.com/vanta-research/apollo-astralis-8b)
-- **Email**: research@vanta.ai
+- **Email**: tyler@vantaresearch.xyz
 - **Model Repository**: [HuggingFace](https://huggingface.co/vanta-research/apollo-astralis-8b)
 
 ---
