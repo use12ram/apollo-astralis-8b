@@ -1,43 +1,3 @@
----
-license: apache-2.0
-base_model: Qwen/Qwen3-8B
-library_name: peft
-tags:
-- reasoning
-- personality
-- conversational-ai
-- qwen
-- lora
-- vanta-research
-- apollo
-- astralis
-language:
-- en
-pipeline_tag: text-generation
-model_creator: VANTA Research
-model_type: qwen2
-quantized_by: VANTA Research
----
----
-license: apache-2.0
-base_model: Qwen/Qwen3-8B
-library_name: peft
-tags:
-- reasoning
-- personality
-- conversational-ai
-- qwen
-- lora
-- vanta-research
-- apollo
-- astralis
-language:
-- en
-pipeline_tag: text-generation
-model_creator: VANTA Research
-model_type: qwen2
-quantized_by: VANTA Research
----
 
 # Apollo Astralis 8B
 
@@ -307,14 +267,14 @@ Both variants use the same base model; only `num_predict` parameter differs.
 
 ### Intended Use Cases
 
-✅ **Appropriate**:
+**Appropriate**:
 - Educational tutoring and homework help
 - Learning reasoning and problem-solving skills
 - Brainstorming and collaborative thinking
 - Prototyping and development assistance
 - Research into AI reasoning and personality
 
-❌ **Inappropriate**:
+**Inappropriate**:
 - Professional legal, medical, or financial advice
 - Critical decision-making without human oversight
 - High-stakes applications without verification
@@ -352,6 +312,6 @@ This model is released under the Apache 2.0 License. See [LICENSE](./LICENSE) fo
 
 ---
 
-**Apollo Astralis 8B - Where Reasoning Meets Warmth**
+**Apollo Astralis 8B - Frontier Intelligence**
 
-*Developed by VANTA Research • October 2025 • Apache 2.0 License*
+*Proudly developed by VANTA Research in Portland, Oregon • October 2025 • Apache 2.0 License*
