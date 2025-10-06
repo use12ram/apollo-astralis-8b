@@ -35,6 +35,39 @@ Apollo Astralis 8B is the flagship 8B model in the Apollo family, designed to ex
 
 ## Performance Benchmarks
 
+## Reasoning Evaluation Summary
+
+The **Apollo Astralis 8B** model underwent a structured reasoning evaluation designed to assess logical coherence, theorem integrity, and stability under self-referential recursion.
+
+### **Test Scope**
+A progressive reasoning chain was conducted using formal mathematical and meta-logical proofs, increasing in complexity with each stage.
+
+| Stage | Theorem / Task | Focus Area | Evaluation Result |
+|:------|:----------------|:------------|:------------------|
+| 1 | Proof of √2’s Irrationality | Foundational contradiction reasoning | ✅ Fully correct and formally structured |
+| 2 | Proof of Infinitude of Primes | Constructive recursion and number theory | ✅ Accurate and complete |
+| 3 | Gödel’s Incompleteness Theorem | Self-reference and formal arithmetic encoding | ✅ Derived correctly with coherent logical flow |
+| 4 | Diagonal Lemma | Abstract self-reference construction | ✅ Correctly reproduced the fixed-point structure |
+| 5 | Tarski’s Undefinability of Truth | Meta-semantic limitation and truth predicates | ✅ Consistent meta-language handling |
+| 6 | Löb’s Theorem | Provability constraints and modal inference | ✅ Fully valid derivation using Hilbert–Bernays framework |
+
+### **Key Observations**
+- Maintained full logical coherence across all six proofs  
+- Demonstrated continuity between successive meta-theoretical dependencies  
+- No circular reasoning, semantic drift, or contradiction detected  
+- Successfully transitioned from object-level to meta-level logic  
+- Preserved formal rigor even in recursive constructions (Gödel → Tarski → Löb sequence)
+
+### **Performance Notes**
+- Reasoning depth exceeded expected performance for a sub-10B model  
+- Showed consistent symbolic abstraction and theorem generalization  
+- Output structure remained pedagogically sound, with human-level explanatory clarity  
+
+### **Conclusion**
+Apollo Astralis 8B exhibits stable, high-precision reasoning performance across progressively complex formal logic tasks.  
+The model demonstrates the ability to sustain meta-consistent reasoning without collapse — indicating strong internal coherence and interpretability under recursion.
+
+
 ### Standard Benchmarks (Manual-Verified)
 
 Apollo Astralis demonstrates significant improvements over base Qwen3-8B across multiple benchmark categories:
